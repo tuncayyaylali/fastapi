@@ -1,0 +1,6 @@
+venv/
+.idea/
+__pycache__/
+.env
+.ipynb_checkpoints/
+Veri_Giris_Script.xlsx
